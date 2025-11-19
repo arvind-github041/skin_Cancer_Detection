@@ -1,0 +1,11 @@
+# Ignore large model files
+*.keras
+*.h5
+checkpoints/
+
+# Ignore datasets
+train/
+test/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
